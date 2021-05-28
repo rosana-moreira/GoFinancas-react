@@ -1,11 +1,31 @@
 # GoFinances-react
 
-To copy this project to your machine, you need to:
+# github-explore
+# Descrição do Projeto
+<p align="center">FrontEnd do projeto goFinaces, onde lista todas entradas e saídas de dinheiro além acrescentar dados de arquivos csv.</p>
 
-Install Git Clone the repository running the command: Git clone https://github.com/rosana-moreira/GoFinances-react Install the dependencies using NPM or Yarn, at your project folder, run the command: npm install or
 
-yarn install
+### Pré-requisitos
 
-execute
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-yarn start
+### 🎲 Rodando o Front End
+
+```bash
+# Clone este repositório
+$ git clone <https://github.com/rosana-moreira/GoFinances-react>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd GoFinances-react
+
+# Instale as dependências
+$ yarn
+
+# Execute a aplicação em modo de desenvolvimento
+$ yarn start
+
+# O servidor inciará na porta:3000 - acesse <http://localhost:3000>
+```
+
