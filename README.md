@@ -1,7 +1,7 @@
 # GoFinances-react
 
-# github-explore
-# Descrição do Projeto
+
+<p align="center">Descrição do Projeto</p>
 <p align="center">FrontEnd do projeto goFinaces, onde lista todas entradas e saídas de dinheiro além acrescentar dados de arquivos csv.</p>
 
 
